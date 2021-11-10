@@ -1,6 +1,4 @@
-package chap06;
-
-import java.util.Locale;
+package chap.chap06;
 
 public class StringEx {
     public static void main(String[] args) {

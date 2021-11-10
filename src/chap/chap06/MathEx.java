@@ -1,4 +1,4 @@
-package chap06;
+package chap.chap06;
 
 public class MathEx {
     public static void main(String[] args) {

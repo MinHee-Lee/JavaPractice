@@ -1,8 +1,4 @@
-package chap06;
-
-import javax.swing.*;
-import javax.swing.text.StyledEditorKit;
-import java.util.IdentityHashMap;
+package chap.chap06;
 
 public class WrapperEx {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package chap06;
+package chap.chap06;
 
 class Point{
     int x, y;

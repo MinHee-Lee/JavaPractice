@@ -1,5 +1,4 @@
-package chap06;
-import chap06.Point;
+package chap.chap06;
 
 public class ToStirngEx{
     public static void main(String[] args) {
